@@ -1,6 +1,10 @@
 # pymol-scripts
 Repository for PyMOL molecular graphics shell, PyMOL log and Python scripts 
 
+<p align="center">
+  <img src="test/4W9M-4.png" width="400"></img>
+</p>
+
 These are PyMOL scripts for doing a lot of common things. 
 
 Note that there are different types of scripts:
