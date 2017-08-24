@@ -31,6 +31,6 @@ alias pymol /Applications/MacPyMOL.app/Contents/MacOS/MacPyMOL
 ```
 in my `.cshrc` file
 
-1. Using the files provided, run:
+2. Using the files provided, run:
 `./make_figures.csh make_figures_setup.pml make_figures_test_pdb_list`
-1. Read the header of make_figures.csh for more detail
+3. Read the header of make_figures.csh for more detail
